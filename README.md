@@ -19,8 +19,5 @@
 
 # 💫 Sobre Mí:
 <P>🎓 INGENIERO EN INFORMÁTICA</P>
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>
-🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>
-📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>
-🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>
-🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+
+👋 ¡Hola! Soy un desarrollador full-stack con más de 3 años de experiencia, apasionado por construir soluciones innovadoras y funcionales. Mi enfoque principal está en el front-end, pero también tengo sólidos conocimientos en el desarrollo back-end. Me encanta trabajar con el stack MERN (MongoDB, Express, React, Node.js) y explorar nuevas tecnologías que me ayuden a crecer profesionalmente.

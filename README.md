@@ -24,7 +24,6 @@
 
 </br>
 </br>
-</br>
 
 # 🛠️ Experiencia destacada: </br>
 🌟 Desarrollo de aplicaciones web personalizadas para empresas de transporte y librerías. </br>

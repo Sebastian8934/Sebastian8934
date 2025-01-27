@@ -20,4 +20,4 @@
 # 💫 Sobre Mí:
 <P>🎓 INGENIERO EN INFORMÁTICA</P>
 
-👋 ¡Hola! Soy un desarrollador full-stack con más de 3 años de experiencia, apasionado por construir soluciones innovadoras y funcionales. Mi enfoque principal está en el front-end, pero también tengo sólidos conocimientos en el desarrollo back-end. Me encanta trabajar con el stack MERN (MongoDB, Express, React, Node.js) y explorar nuevas tecnologías que me ayuden a crecer profesionalmente.
+👋 ¡Hola! Soy un desarrollador full-stack con 4 años de experiencia, apasionado por construir soluciones innovadoras y funcionales. Mi enfoque principal está en el front-end, pero también tengo sólidos conocimientos en el desarrollo back-end. Me encanta trabajar con el stack MERN (MongoDB, Express, React, Node.js) y explorar nuevas tecnologías que me ayuden a crecer profesionalmente.

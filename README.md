@@ -20,7 +20,7 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 </br>
 </br>
 
-# 🛠️ Contactame: 
+# 🤝🏻 Contactame: 
 </br>
 <div align="center">
   <a href="https://linkedin.com/in/abdoachhoubi" target="_blank">

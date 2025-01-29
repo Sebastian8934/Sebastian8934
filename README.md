@@ -18,9 +18,8 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 🎨 Creación de diseños interactivos y componentes reutilizables en React. </br>
 🛡️ Personalización de servicios como el FaceLivenessDetector de AWS para mejorar la experiencia del usuario.
 
+# 🛠️ Contactame:  </br>
 <div align="center">
-  # 🛠️ Contactame:
-  
   <a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>

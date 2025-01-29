@@ -20,7 +20,7 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 </br>
 </br>
 
-# 🏆 Certifications: </br>
+# 🏆 Certificaciones: </br>
 
 
 </br>

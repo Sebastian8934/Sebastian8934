@@ -20,6 +20,14 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 </br>
 </br>
 
+# 🏆 Certifications: </br>
+🌟 Desarrollo de aplicaciones web personalizadas para empresas de transporte y librerías. </br>
+📦 Implementación de sistemas de ventas y herramientas para la mejora institucional. </br>
+🎨 Creación de diseños interactivos y componentes reutilizables en React. </br>
+🛡️ Personalización de servicios como el FaceLivenessDetector de AWS para mejorar la experiencia del usuario.
+</br>
+</br>
+
 # 🤝🏻 Contactame: 
 </br>
 <div align="center">

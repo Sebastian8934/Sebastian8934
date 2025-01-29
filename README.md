@@ -5,7 +5,7 @@
 </br>
 
 # 💫 Sobre Mí:
-<P>🎓 INGENIERO EN INFORMÁTICA</P>
+<P>🎓 INGENIERO DE SOFTWARE </P>
 
 👋 ¡Hola! Soy un desarrollador front-end con 4 años de experiencia creando interfaces de usuario escalables, intuitivas, eficientes y visualmente atractivas. Especializado en React, JavaScript y TypeScript, experto en herramientas modernas como Vite, Tailwind CSS y Bootstrap, conocimiento sólido en metodologías ágiles y herramientas de control de versiones como Git.
 Apasionado por resolver problemas mediante la innovación tecnológica, proporcionando soluciones efectivas y adaptables a las necesidades de cada proyecto. Autodidacta y comprometido con el aprendizaje continuo.
@@ -18,7 +18,7 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 🎨 Creación de diseños interactivos y componentes reutilizables en React. </br>
 🛡️ Personalización de servicios como el FaceLivenessDetector de AWS para mejorar la experiencia del usuario.
 
-# 🛠️ Contactame:  
+# 🛠️ Contactame: 
 </br>
 <div align="center">
   <a href="https://linkedin.com/in/abdoachhoubi" target="_blank">

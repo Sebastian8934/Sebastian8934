@@ -20,7 +20,8 @@
 # 💫 Sobre Mí:
 <P>🎓 INGENIERO EN INFORMÁTICA</P>
 
-👋 ¡Hola! Soy un desarrollador full-stack con 4 años de experiencia, apasionado por construir soluciones innovadoras y funcionales. Mi enfoque principal está en el front-end, pero también tengo sólidos conocimientos en el desarrollo back-end. Me encanta trabajar con el stack MERN (MongoDB, Express, React, Node.js) y explorar nuevas tecnologías que me ayuden a crecer profesionalmente.
+👋 ¡Hola! Soy un desarrollador front-end con 4 años de experiencia creando interfaces de usuario escalables, intuitivas, eficientes y visualmente atractivas. Especializado en React, JavaScript y TypeScript, experto en herramientas modernas como Vite, Tailwind CSS y Bootstrap, conocimiento sólido en metodologías ágiles y herramientas de control de versiones como Git.
+Apasionado por resolver problemas mediante la innovación tecnológica, proporcionando soluciones efectivas y adaptables a las necesidades de cada proyecto. Autodidacta y comprometido con el aprendizaje continuo.
 </br>
 </br>
 # 🛠️ Experiencia destacada: </br>

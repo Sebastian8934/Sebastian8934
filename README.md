@@ -1,8 +1,5 @@
 <div align="center">
-<h2> Hola, bienvenidos a mi perfil de Github <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<br />
-<br />
-<br />
+  <h2> Hola, bienvenidos a mi perfil de Github <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 </div>
 
 # 💫 Sobre Mí:
@@ -12,12 +9,12 @@
 Apasionado por resolver problemas mediante la innovación tecnológica, proporcionando soluciones efectivas y adaptables a las necesidades de cada proyecto. Autodidacta y comprometido con el aprendizaje continuo.
 </br>
 </br>
+
 # 🛠️ Experiencia destacada: </br>
 🌟 Desarrollo de aplicaciones web personalizadas para empresas de transporte y librerías. </br>
 📦 Implementación de sistemas de ventas y herramientas para la mejora institucional. </br>
 🎨 Creación de diseños interactivos y componentes reutilizables en React. </br>
 🛡️ Personalización de servicios como el FaceLivenessDetector de AWS para mejorar la experiencia del usuario.
-
 
 <div align="center">
   

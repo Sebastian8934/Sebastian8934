@@ -39,7 +39,7 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
   <img src="https://skillicons.dev/icons?i=react,express,net" alt="" />
 </div>
 <div>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,html,css" alt="" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs" alt="" />
 </div>
 <br/>
 <br/>

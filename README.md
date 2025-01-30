@@ -35,7 +35,9 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 </br>
 
 # 👨🏻‍💻 Tecnologías: </br>
-
+<div>
+  <img src="https://skillicons.dev/icons?i=androidstudio,javascript" alt="" />
+</div>
 <!-- 
 # 🏆 Certificaciones: </br>
 </br>

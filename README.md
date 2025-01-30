@@ -34,9 +34,10 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 </br>
 </br>
 
+# 👨🏻‍💻 Tecnologías: </br>
+
+<!-- 
 # 🏆 Certificaciones: </br>
-
-
 </br>
 </br>
-
+--->

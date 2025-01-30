@@ -13,7 +13,8 @@
     <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
   <a href="https://achhoubiplus.linkedin.dev" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=2962FF&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    
   </a>
 </div>
 

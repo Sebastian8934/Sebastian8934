@@ -6,11 +6,9 @@
   <a href="https://linkedin.com/in/juan-sebastian-quiroz-soto" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-
-<a href="mailto:jquirozsoto3@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"/>
-</a>
-  
+  <a href="mailto:jquirozsoto3@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"/>
+  </a>
   <a href="https://instagram.com/abdo.achhoubi" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>

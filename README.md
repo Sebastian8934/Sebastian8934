@@ -44,7 +44,7 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 <br/>
 <br/>
 
-# 🗃 Bases de datos: </br>
+# 🗃 Base de datos: </br>
 <div>
   <img src="https://skillicons.dev/icons?i=mongodb,sqlserver,redis" alt="" />
 </div>

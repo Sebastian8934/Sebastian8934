@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <a href="www.linkedin.com/in/juan-sebastian-quiroz-soto-a1495320b" target="_blank">
+  <a href="www.linkedin.com/in/juan-sebastian-quiroz-soto" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://instagram.com/abdo.achhoubi" target="_blank">

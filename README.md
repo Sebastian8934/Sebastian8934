@@ -41,6 +41,13 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 <div>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,html,css" alt="" />
 </div>
+<br/>
+<br/>
+
+# 🛠️ Bases de datos: </br>
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlserver,redis" alt="" />
+</div>
 
 <!-- 
 # 🏆 Certificaciones: </br>

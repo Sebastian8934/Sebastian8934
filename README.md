@@ -3,9 +3,14 @@
 </div>
 
 <div>
-  <a href="www.linkedin.com/in/juan-sebastian-quiroz-soto" target="_blank">
+  <a href="https://linkedin.com/in/juan-sebastian-quiroz-soto" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
+
+<a href="https://linkedin.com/in/unsimpledev" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/>
+</a>
+  
   <a href="https://instagram.com/abdo.achhoubi" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>

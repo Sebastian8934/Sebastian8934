@@ -10,7 +10,7 @@
   <a href="mailto:jquirozsoto3@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@sebastian"/>
   </a>
- <a href="https://achhoubiplus.linkedin.dev" target="_blank">
+ <a href="https://wa.me/573147961800" target="_blank">
     <img src=https://img.shields.io/badge/whatsapp-239120?style=for-the-badge&logo=whatsapp&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
   </a>
 </div>

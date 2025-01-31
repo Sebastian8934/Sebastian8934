@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@sebastian"/>
   </a>
  <a href="https://achhoubiplus.linkedin.dev" target="_blank">
-    <img src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
+    <img src=https://img.shields.io/badge/whatsapp-239120?style=for-the-badge&logo=plotly&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
   </a>
 </div>
 

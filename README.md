@@ -1,3 +1,4 @@
+
 <div align="center">
   <h2> Hola, bienvenidos a mi perfil de Github <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 </div>
@@ -57,7 +58,7 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 
 # 🧰 Control de versiones y herramientas: </br>
 <div>
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlserver,redis" alt="" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" alt="" />
 </div>
 <br/>
 <br/>

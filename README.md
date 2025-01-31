@@ -41,6 +41,9 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 <div>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,cs" alt="" />
 </div>
+<div>
+ <img src="https://skillicons.dev/icons?i=boostrap,material,tailwind" alt="" />
+</div>
 <br/>
 <br/>
 

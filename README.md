@@ -108,6 +108,8 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 </td>
 </tr>
 </table>
+</br>
+</br>
 
 <!-- 
 # 🏆 Certificaciones: </br>

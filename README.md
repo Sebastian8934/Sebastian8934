@@ -67,7 +67,7 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+     <a href="https://www.nagetrans.com/" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="VIDEO" /></a>
       </p>
     <p align="center">
@@ -84,7 +84,7 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
           <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="VIDEO" /></a>
         </p>
       <p align="center">
-          <a href="https://youtu.be/fiUkA2OZQjs" target="blank">
+          <a href="https://www.grupodavinox.com/" target="blank">
             <img align="center" src="https://img.shields.io/badge/url-FF0000?style=for-the-badge&logoColor=white" alt="@unsimpledev" />
           </a>
         <!---
@@ -96,8 +96,9 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
   <td width="25%" align="center">
     <p align="center">
      <a href="https://to-do-list-u3cw.onrender.com/" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" alt="VIDEO" /></a>
-      </p>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" alt="VIDEO" />
+     </a>
+    </p>
     <p align="center">
         <a href="https://to-do-list-u3cw.onrender.com/" target="blank">
           <img align="center" src="https://img.shields.io/badge/url-FF0000?style=for-the-badge&logoColor=white" alt="@unsimpledev" />

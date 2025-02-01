@@ -75,9 +75,9 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
         <a href="https://to-do-list-u3cw.onrender.com/" target="blank">
           <img align="center" src="https://img.shields.io/badge/url-FF0000?style=for-the-badge&logoColor=white" alt="@unsimpledev" />
         </a>
-      <!-- 
-        <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-      -->
+        <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev"/>
+        </a>
     </p>       
   </td>
   
@@ -90,9 +90,9 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
         <a href="https://www.nagetrans.com/" target="blank">
           <img align="center" src="https://img.shields.io/badge/url-FF0000?style=for-the-badge&logoColor=black" alt="@unsimpledev"/>
         </a>
-        <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
-          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev"/>
-        </a>
+      <!-- 
+        <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      -->
     </p>       
   </td>
   

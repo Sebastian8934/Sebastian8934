@@ -68,7 +68,7 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" src="https://img.shields.io/badge/url-FF0000?style=for-the-badge&logoColor=white" alt="@unsimpledev" />
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://youtu.be/rISmdhlhOPM" target="blank">
@@ -78,18 +78,18 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
     </p>       
   </td>
   
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank">
-          <img align="center" src="https://img.shields.io/badge/url-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
-        </a>
-        <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
+  <td width="25%" align="center">
+      <p align="center">
+       <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
+          <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="VIDEO" /></a>
+        </p>
+      <p align="center">
+          <a href="https://youtu.be/fiUkA2OZQjs" target="blank">
+            <img align="center" src="https://img.shields.io/badge/url-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+          </a>
+          <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      </p>       
+  </td>
   
   <td width="25%" align="center">
     <p align="center">
@@ -102,7 +102,7 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
         </a>
         <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
-</td>
+  </td>
 
  <td width="25%" align="center">
     <p align="center">
@@ -115,7 +115,8 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
         </a>
         <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
-</td>
+  </td>
+
 </tr>
 </table>
 </br>

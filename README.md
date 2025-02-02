@@ -68,7 +68,7 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
   <td width="25%" align="center">
     <p align="center">
      <a href="https://to-do-list-u3cw.onrender.com/" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" alt="VIDEO" />
+        <img align="center" width=100% src="./assets/img-todolist.png" alt="VIDEO" />
      </a>
     </p>
     <p align="center">

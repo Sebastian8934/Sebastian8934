@@ -28,9 +28,9 @@ Apasionado por resolver problemas mediante la innovación tecnológica, proporci
 
 # 🛠️ Experiencia destacada: </br>
 🌟 Desarrollo de aplicaciones web personalizadas para empresas de transporte. </br>
-<!-- 📦 Implementación de sistemas de ventas y herramientas para la mejora institucional. </br> -->
 🎨 Creación de diseños interactivos y componentes reutilizables en React. </br>
 🛡️ Personalización de servicios como el FaceLivenessDetector de AWS para mejorar la experiencia del usuario.
+<!-- 📦 Implementación de sistemas de ventas y herramientas para la mejora institucional. </br> -->
 </br>
 </br>
 

@@ -21,8 +21,11 @@
 # 💫 Sobre Mí:
 <P>🎓 INGENIERO DE SOFTWARE </P>
 
-👋 ¡Hola! Soy un desarrollador front-end con 4 años de experiencia creando interfaces de usuario escalables, intuitivas, eficientes y visualmente atractivas. Especializado en React, JavaScript y TypeScript, experto en herramientas modernas como Vite, Tailwind CSS y Bootstrap, conocimiento sólido en metodologías ágiles y herramientas de control de versiones como Git.
-Apasionado por resolver problemas mediante la innovación tecnológica, proporcionando soluciones efectivas y adaptables a las necesidades de cada proyecto. Autodidacta y comprometido con el aprendizaje continuo.
+👋 ¡Hola! Soy un desarrollador full-stack con 4 años de experiencia construyendo aplicaciones web completas, eficientes y escalables. En el front-end, estoy especializado en React, JavaScript y TypeScript, utilizando herramientas modernas como Vite, Tailwind CSS y Bootstrap.
+
+En el back-end, trabajo con .NET Core y ASP.NET, creando APIs robustas y seguras, integradas con bases de datos como SQL Server y Entity Framework. Tengo experiencia aplicando arquitecturas limpias, principios SOLID y patrones de diseño.
+
+Manejo metodologías ágiles, control de versiones con Git y despliegue en entornos como azure. Apasionado por la innovación tecnológica, disfruto resolver problemas complejos ofreciendo soluciones efectivas y mantenibles. Soy autodidacta, proactivo y comprometido con el aprendizaje continuo
 </br>
 </br>
 

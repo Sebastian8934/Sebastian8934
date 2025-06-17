@@ -65,9 +65,9 @@ Manejo metodologías ágiles, control de versiones con Git y despliegue en entor
 <br/>
 
 # 🎨 Portafolios: </br>
-<table align="left">
-<tr border="none">
-
+  <table align="left">
+  <tr border="none">
+  
     <td width="25%" align="center">
       <p align="center">
        <a href="https://to-do-list-u3cw.onrender.com/" title="Go to Source">
@@ -83,9 +83,9 @@ Manejo metodologías ágiles, control de versiones con Git y despliegue en entor
           </a>
       </p>       
     </td>
-
-</tr>
-</table>
+  
+  </tr>
+  </table>
 </br>
 </br>
 

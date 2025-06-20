@@ -72,7 +72,7 @@ Manejo metodologías ágiles, control de versiones con Git y despliegue en entor
      </a>
     </p>
     <p align="center">
-        <a href="https://backtestone-beaxdtbwf6bsgtgn.canadacentral-01.azurewebsites.net/swagger/index.html" target="blank">
+        <a href="https://github.com/Sebastian8934/WopmiBack" target="blank">
           <img align="center" src="https://img.shields.io/badge/url-FF0000?style=for-the-badge&logoColor=white" alt="@unsimpledev" />
         </a>
         <a href="https://backtestone-beaxdtbwf6bsgtgn.canadacentral-01.azurewebsites.net/swagger/index.html" target="blank">

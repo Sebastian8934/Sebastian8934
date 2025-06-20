@@ -7,9 +7,6 @@
   <a href="https://linkedin.com/in/juan-sebastian-quiroz-soto" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:jquirozsoto3@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@sebastian"/>
-  </a>
  <a href="https://wa.me/573147961800" target="_blank">
     <img src=https://img.shields.io/badge/whatsapp-239120?style=for-the-badge&logo=whatsapp&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
   </a>
@@ -65,27 +62,27 @@ Manejo metodologías ágiles, control de versiones con Git y despliegue en entor
 <br/>
 
 # 🎨 Portafolios: </br>
-    <table align="left">
+  <table align="left">
     <tr border="none">
     
-    <td width="25%" align="center">
-      <p align="center">
-       <a href="https://to-do-list-u3cw.onrender.com/" title="Go to Source">
-          <img align="center" width=100% src="./assets/img-todolist.png" alt="VIDEO" />
-       </a>
-      </p>
-      <p align="center">
-          <a href="https://to-do-list-u3cw.onrender.com/" target="blank">
-            <img align="center" src="https://img.shields.io/badge/url-FF0000?style=for-the-badge&logoColor=white" alt="@unsimpledev" />
-          </a>
-          <a href="https://github.com/Sebastian8934/to-do-list" target="blank">
-            <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev"/>
-          </a>
-      </p>       
-    </td>
-    
-    </tr>
-    </table>
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://to-do-list-u3cw.onrender.com/" title="Go to Source">
+        <img align="center" width=100% src="./assets/img-todolist.png" alt="VIDEO" />
+     </a>
+    </p>
+    <p align="center">
+        <a href="https://to-do-list-u3cw.onrender.com/" target="blank">
+          <img align="center" src="https://img.shields.io/badge/url-FF0000?style=for-the-badge&logoColor=white" alt="@unsimpledev" />
+        </a>
+        <a href="https://github.com/Sebastian8934/to-do-list" target="blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev"/>
+        </a>
+    </p>       
+  </td>
+
+  </tr>
+  </table>
 </br>
 </br>
 
